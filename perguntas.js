@@ -1,7 +1,7 @@
 criaCartao(
-    'Biologia',
-    'Normalmente, quantos litros de sangue uma pessoa tem? Em média, quantos são retirados numa doação de sangue?',
-    'Entre 4 a 6 litros.'
+    'Português',
+    'Quem escreveu "Dom Casmurro"?',
+    'Machado de Assis.'
 )
 
 criaCartao(
